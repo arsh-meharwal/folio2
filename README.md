@@ -1,7 +1,6 @@
 ## Arsh Meharwal Portfolo Website
 
-Courtesy of -
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+Courtesy of - # [Watch video here](https://youtu.be/sUKptmUVIBM)
 
 ## What you will learn
 
